@@ -7,7 +7,7 @@ import java.awt.event.*;
  * This class Creates the buttons, Graphical interfaces, and checks for the winners which
  * is either "X" or "Y".
  * CS 3331
- * @author Jesus Garcia
+ * 
  * @since 1-30-2017
  */
 public class TicTacToe extends JFrame implements ActionListener 
